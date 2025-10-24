@@ -10,7 +10,7 @@
 <main id="mainContent" style="display: none;">
     <nav class="navbar navbar-expand-lg bg-dark shadow-lg">
         <div class="container">
-            <a href="index.php" class="navbar-brand">Waso <span class="text-danger">Strategy</span></a>
+            <a href="index.php" class="navbar-brand">DigiTech <span class="text-danger">Elite</span></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
             </button>
